@@ -23,10 +23,6 @@ I’m a **Data Scientist and Analyst** currently working at **Solico Group**, a 
   - Developed machine learning models for operational analytics.
   - Researched and developed Large Language Models (LLMs) and generative AI applications for business needs.
 
-- **Axon** (Remote) — **Data Scientist** — *3 Jun 2025 – present*
-  - Conduct feature extraction and build predictive models for cryptocurrency price forecasting.
-  - Apply machine learning and quantitative methods in finance.
-
 ## Projects
 
 - **Return Goods Analysis** *(2024)* — Analysis of sales data using Random Forest to identify factors behind product returns and implement restrictions in the SAP ordering system.
