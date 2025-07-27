@@ -5,7 +5,6 @@ I’m a **Data Scientist and Analyst** currently working at **Solico Group**, a 
 ## 🎓 Goals & Interests
 
 - Deepening my research in dairy market analytics and consumer behaviour.
-- Seeking a **fully funded Graduate Research Assistant** position in data science or analytics in Europe, Canada, the USA, and beyond.
 - Collaborating on innovative data science projects and applying state‑of‑the‑art models to real‑world challenges.
 
 ## 🛠️ Tools & Technologies
