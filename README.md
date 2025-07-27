@@ -23,7 +23,7 @@ I’m a **Data Scientist and Analyst** currently working at **Solico Group**, a 
   - Developed machine learning models for operational analytics.
   - Researched and developed Large Language Models (LLMs) and generative AI applications for business needs.
 
-- **Axon Tarh Alborz** (Part time, Remote, Amol, Iran) — **Data Scientist** — *3 Jun 2025 – present*
+- **Axon** (Remote) — **Data Scientist** — *3 Jun 2025 – present*
   - Conduct feature extraction and build predictive models for cryptocurrency price forecasting.
   - Apply machine learning and quantitative methods in finance.
 
