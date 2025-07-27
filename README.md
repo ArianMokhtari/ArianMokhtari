@@ -1,6 +1,6 @@
 # 🌟 Hi, I’m Arian
 
-I’m a **Data Scientist and Analyst** currently working at **Solico Group**, a leading dairy company, and as a **part‑time Data Scientist** at **Axon Tarh Alborz** (remote). I use data to drive insights and create analytics that help the business grow. My professional interests include machine learning, operational analytics, generative AI, and web scraping.
+I’m a **Data Scientist and Analyst** currently working at **Solico Group**, a leading dairy company. I use data to drive insights and create analytics that help the business grow. My professional interests include machine learning, operational analytics, generative AI, and web scraping.
 
 ## Goals & Interests
 
