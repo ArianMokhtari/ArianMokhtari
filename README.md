@@ -4,12 +4,6 @@
 
 I'm an **AI Engineer at Solico Group**, working on Python-based solutions, applied AI, industrial digitalization, and intelligent process improvement. My work combines software development, machine learning, and engineering data systems to improve operational efficiency and support data-driven decision-making.
 
-## Goals & Interests
-
-- Deepening my research in dairy market analytics and consumer behaviour.
-- Collaborating on innovative data science projects and applying state‑of‑the‑art models to real‑world challenges.
-- Exploring applications of **Machine Learning** and **LLMs** in the food and finance industries.
-
 ## Tools & Technologies
 
 - **Programming:** Python (Pandas, NumPy, SciPy), R, SQL.
