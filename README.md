@@ -1,6 +1,6 @@
 # 🌟 Hi, I’m Arian
 
-My role is **Data Scientists and Analytics**, and I currently work at **Solico Group**, a leading dairy company. I use data to drive insights and create analytics that help the business grow. My professional interests include machine learning, operational analytics, generative AI, and web scraping.
+My role is **AI Engineer**, and I currently work at **Solico Group**, a leading dairy company. I use data to drive insights and create analytics that help the business grow. My professional interests include machine learning, operational analytics, generative AI, and web scraping.
 
 ## Goals & Interests
 
@@ -18,25 +18,10 @@ My role is **Data Scientists and Analytics**, and I currently work at **Solico G
 
 ## Work Experience
 
-- **Solico Group** (Full time, On‑site, Amol, Iran) — **Data Scientists and Analytics** — *10 Mar 2024 – present*
+- **Solico Group** (Full time, On‑site, Amol, Iran) — **AI Engineer** — *10 Mar 2024 – present*
   - Data analytics on sales and operational data for the dairy market.
   - Developed machine learning models for operational analytics.
   - Researched and developed Large Language Models (LLMs) and generative AI applications for business needs.
-
-## Projects
-
-- **Return Goods Analysis** *(2024)* — Analysis of sales data using Random Forest to identify factors behind product returns and implement restrictions in the SAP ordering system.
-- **Digikala Price Monitoring** *(2024)* — Automated web scraping from Digikala (the largest Iranian online shop) to monitor prices of Solico Group and competitors’ products.
-- **Intelligent Spray Dryer** *(2025–present)* — Ongoing project to make the spray drying process smart by automatically adjusting parameters for optimal performance.
-- **Conversational AI Chatbot** *(current)* — Building and fine‑tuning a dialogue system for Solico Group’s consumers using LLMs.
-- **Ethereum Price Prediction** *(2025–present)* — Ongoing research on predicting Ethereum prices for trading using machine learning models.
-
-Check out my **Projects** repository for code snippets and tutorials, and feel free to explore the new project repositories to learn more!
-
-## Featured Projects
-
-- **Projects** (public): A collection of notebooks and code exploring data science topics.
-- **Web‑Scraping‑for‑Online‑Shop** (private): A web scraping project to gather product information about food, beverages and dairy products for competitive analysis.
 
 ## Let’s Connect
 
