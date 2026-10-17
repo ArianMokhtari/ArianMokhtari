@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an **AI Engineer at Solico Group**, working on Python-based solutions, applied AI, industrial digitalization, and intelligent process improvement. My work combines software development, machine learning, and engineering data systems to improve operational efficiency and support data-driven decision-making.
+I'm an **AI Engineer at Solico Group**, working on Python-based solutions, applied AI, **Large Language Models (LLMs), RAG, AI Agents**, industrial digitalization, and intelligent process improvement. My work combines software development, machine learning, and engineering data systems to improve operational efficiency and support data-driven decision-making.
 
 ## Tools & Technologies
 
