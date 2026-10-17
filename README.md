@@ -12,7 +12,6 @@ I'm an **AI Engineer at Solico Group**, working on Python-based solutions, appli
 - **Optimization & Industrial Analytics:** Pyomo, HiGHS, Statistical Analysis, Engineering Data Integration.
 - **APIs & Infrastructure:** REST APIs, Webhooks, Docker, Docker Compose, Linux, Nginx, Git/GitHub.
 - **Visualization:** Matplotlib, Seaborn, Plotly, Power BI.
-- **Other Tools:** LaTeX, Jira, Microsoft Office.
 
 ## Work Experience
 
