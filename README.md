@@ -6,12 +6,12 @@ I'm an **AI Engineer at Solico Group**, working on Python-based solutions, appli
 
 ## Tools & Technologies
 
-- **Programming & Data:** R, SQL, SciPy.
+- **Programming & Data:** Python, R, SQL.
 - **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost, Hugging Face Transformers, NLP, Time Series Forecasting, Anomaly Detection.
 - **LLMs & Agentic AI:** RAG, AI Agents, LangChain, LangGraph, n8n, MCP, Qdrant, Ollama, PEFT/QLoRA.
 - **Optimization & Industrial Analytics:** Pyomo, HiGHS, Statistical Analysis, Engineering Data Integration.
 - **APIs & Infrastructure:** REST APIs, Webhooks, Docker, Docker Compose, Linux, Nginx, Git/GitHub.
-- **Web Scraping & Visualization:** BeautifulSoup, Scrapy, Matplotlib, Seaborn, Plotly, Power BI.
+- **Visualization:** Matplotlib, Seaborn, Plotly, Power BI.
 - **Other Tools:** LaTeX, Jira, Microsoft Office.
 
 ## Work Experience
