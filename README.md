@@ -18,7 +18,7 @@ My role is **AI Engineer**, and I currently work at **Solico Group**, a leading 
 
 ## Work Experience
 
-- **Solico Group** (Full time, On‑site, Amol, Iran) — **AI Engineer** — *10 Mar 2024 – present*
+- **Solico Group** (Full time, On‑site) — **AI Engineer** — *10 Mar 2024 – present*
   - Data analytics on sales and operational data for the dairy market.
   - Developed machine learning models for operational analytics.
   - Researched and developed Large Language Models (LLMs) and generative AI applications for business needs.
