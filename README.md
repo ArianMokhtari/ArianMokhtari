@@ -1,6 +1,8 @@
 # 🌟 Hi, I’m Arian
 
-My role is **AI Engineer**, and I currently work at **Solico Group**, a leading dairy company. I use data to drive insights and create analytics that help the business grow. My professional interests include machine learning, operational analytics, generative AI, and web scraping.
+## About Me
+
+I'm an **AI Engineer at Solico Group**, working on Python-based solutions, applied AI, industrial digitalization, and intelligent process improvement. My work combines software development, machine learning, and engineering data systems to improve operational efficiency and support data-driven decision-making.
 
 ## Goals & Interests
 
@@ -18,10 +20,12 @@ My role is **AI Engineer**, and I currently work at **Solico Group**, a leading 
 
 ## Work Experience
 
-- **Solico Group** (Full time, On‑site) — **AI Engineer** — *10 Mar 2024 – present*
-  - Data analytics on sales and operational data for the dairy market.
-  - Developed machine learning models for operational analytics.
-  - Researched and developed Large Language Models (LLMs) and generative AI applications for business needs.
+**Solico Group — AI Engineer**  
+*March 2024 – Present*
+
+- Develop Python-based tools and applications for data processing, automation, and industrial analytics.
+- Build AI and machine learning solutions, including LLM-based applications and intelligent agents.
+- Work on industrial digitalization, engineering data integration, and the development of intelligent systems for process improvement.
 
 ## Let’s Connect
 
